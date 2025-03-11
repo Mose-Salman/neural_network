@@ -1,0 +1,31 @@
+Contents of my root directory
+total 2470248
+drwxr-xr-x  21 root root       4096 Jan  5  2022 ./
+drwxr-xr-x  21 root root       4096 Jan  5  2022 ../
+lrwxrwxrwx   1 root root          7 Jul  3  2020 bin -> usr/bin/
+drwxr-xr-x   4 root root       4096 Okt  4 11:38 boot/
+drwxr-xr-x   2 root root       4096 Jul  3  2020 cdrom/
+-rw-------   1 root root  381943808 Jul  3  2020 core
+drwxr-xr-x  19 root root       5100 Okt 11 04:52 dev/
+drwxr-xr-x 162 root root      12288 Okt 11 10:19 etc/
+drwxr-xr-x   3 root root       4096 Jan  5  2022 filer2.is.haw-hamburg.de/
+drwxr-xr-x   6 root root       4096 Okt 11 10:17 home/
+lrwxrwxrwx   1 root root          7 Jul  3  2020 lib -> usr/lib/
+lrwxrwxrwx   1 root root          9 Jul  3  2020 lib32 -> usr/lib32/
+lrwxrwxrwx   1 root root          9 Jul  3  2020 lib64 -> usr/lib64/
+lrwxrwxrwx   1 root root         10 Jul  3  2020 libx32 -> usr/libx32/
+drwx------   2 root root      16384 Jul  3  2020 lost+found/
+drwxr-xr-x   7 root root       4096 Jun 16 15:36 media/
+drwxr-xr-x   3 root root       4096 Sep 27 11:02 mnt/
+drwxr-xr-x   2 root root       4096 Mai 28  2021 opt/
+dr-xr-xr-x 513 root root          0 Okt  4 13:22 proc/
+drwx------   9 root root       4096 Aug  1 10:18 root/
+drwxr-xr-x  41 root root       1300 Okt 11 14:17 run/
+lrwxrwxrwx   1 root root          8 Jul  3  2020 sbin -> usr/sbin/
+drwxr-xr-x  19 root root       4096 Aug  1 10:28 snap/
+drwxr-xr-x   2 root root       4096 Apr 23  2020 srv/
+-rw-------   1 root root 2147483648 Jul  3  2020 swapfile
+dr-xr-xr-x  13 root root          0 Okt  4 13:22 sys/
+drwxrwxrwt  14 root root      12288 Okt 11 14:26 tmp/
+drwxr-xr-x  14 root root       4096 Apr 23  2020 usr/
+drwxr-xr-x  14 root root       4096 Apr 23  2020 var/

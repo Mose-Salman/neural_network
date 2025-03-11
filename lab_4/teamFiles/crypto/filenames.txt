@@ -1,0 +1,10 @@
+teamFiles/crypto/ADA-USD.csv
+teamFiles/crypto/BCH-USD.csv
+teamFiles/crypto/BTC-USD.csv
+teamFiles/crypto/EOS-USD.csv
+teamFiles/crypto/ETH-USD.csv
+teamFiles/crypto/LINK-USD.csv
+teamFiles/crypto/LTC-USD.csv
+teamFiles/crypto/USDT-USD.csv
+teamFiles/crypto/XRP-USD.csv
+teamFiles/crypto/XTZ-USD.csv

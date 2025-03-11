@@ -1,0 +1,10 @@
+ADA-USD.csv
+BCH-USD.csv
+BTC-USD.csv
+EOS-USD.csv
+ETH-USD.csv
+LINK-USD.csv
+LTC-USD.csv
+USDT-USD.csv
+XRP-USD.csv
+XTZ-USD.csv
